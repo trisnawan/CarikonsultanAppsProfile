@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/app/src/main/res/layout/activity_splash.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/activity_profile.xml" value="0.1984375" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/fragment_connect.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/fragment_price_dialog.xml" value="0.18333333333333332" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/fragment_profile.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/fragment_schedule_editor.xml" value="0.2125" />
+        <entry key="..\:/AndroidStudio/Kantor/CarikonsultanApps/ConsultantPlugin/consultant/src/main/res/layout/row_schedule_set.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

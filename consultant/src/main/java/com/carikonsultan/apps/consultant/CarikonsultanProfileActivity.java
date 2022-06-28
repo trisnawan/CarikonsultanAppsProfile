@@ -15,7 +15,7 @@ import com.carikonsultan.apps.consultant.core.Credential;
 import com.carikonsultan.apps.consultant.ui.auth.ConnectFragment;
 import com.carikonsultan.apps.consultant.ui.profile.ProfileFragment;
 
-public class ProfileActivity extends AppCompatActivity implements AppInterface {
+public class CarikonsultanProfileActivity extends AppCompatActivity implements AppInterface {
     private final FragmentManager fragmentManager = getSupportFragmentManager();
 
     @Override

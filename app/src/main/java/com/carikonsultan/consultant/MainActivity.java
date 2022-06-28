@@ -1,8 +1,7 @@
 package com.carikonsultan.consultant;
 
-import com.carikonsultan.apps.consultant.ProfileActivity;
-import com.carikonsultan.apps.consultant.core.Credential;
+import com.carikonsultan.apps.consultant.CarikonsultanProfileActivity;
 
-public class MainActivity extends ProfileActivity {
+public class MainActivity extends CarikonsultanProfileActivity {
 
 }
